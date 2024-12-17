@@ -1,4 +1,4 @@
 # datacamp-webinar
 
 
-I think CamelCase is the best!
+I think snake_case is the best!
